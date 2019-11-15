@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html>
+<head>
+<title>AtmosphereNineSix</title>
+<link rel="stylesheet" type= "text/css" href="Home.style.css">
+
+<link rel="js" type="js" href="home.js">
+    </head>
+ <body>
+    <center><h5>A CREATIVE SPACE</h5></center>
+    <nav>
+	 <ul>
+        <li><a href="Home.html" class="button">Home</a></li>
+        <li><a href="About.html" class="button">About</a></li>
+        <li><a href="Contact.html" class="button">Contact</a></li>
+        </ul>
+	
+	</nav>
+     
+	<p>NYC</p>
+
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+   
+    
+    
+    
+   
+
+    
+    
+    
+    
+    
+    
+    
+    
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ <script>
+     $('#shrinkMe').click(function(){ // or any other event
+ $(this).addClass('shrink');
+});   
+</script>
+</body>
+</html>
